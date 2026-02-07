@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae029703-3f8b-4dc1-bb9b-ee71e23ba130" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Java+Selenium/.idea/Java+Selenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Amazon_Test/.idea/Amazon_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/Real_Demo_Site_Automate/ParaBank_Test/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/Real_Demo_Site_Automate/ParaBank_Test/test_parabank_registration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/Real_Demo_Site_Automate/ParaBank_Test/test_parabank_registration2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/tests/LoginTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/tests/SignupTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/tests/error_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/tests/login_empty_fields_failure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/tests/login_invalid_password_failure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/tests/login_invalid_userid_failure.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Selenium/tests/login_test_failure.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="394CUsHKLTJG9Spxy5MAESElNsp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "G:/My 2025/Study/QA Study/QA Learning Journey/Automation Testing/Real_Demo_Site_Automate/Swag Labs Automation"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.DashboardTest.logout">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="OrangeHRM Automation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="OrangeHRM Automation" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DashboardTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DashboardTest.logout" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.DashboardTest" />
+      <option name="METHOD_NAME" value="logout" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.LoginTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PasswordResetTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OrangeHRMAutomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.PasswordResetTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.DashboardTest.logout" />
+        <item itemvalue="TestNG.DashboardTest" />
+        <item itemvalue="TestNG.PasswordResetTest" />
+        <item itemvalue="TestNG.LoginTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae029703-3f8b-4dc1-bb9b-ee71e23ba130" name="Changes" comment="" />
+      <created>1769945976924</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769945976924</updated>
+    </task>
+    <servers />
+  </component>
+</project>
