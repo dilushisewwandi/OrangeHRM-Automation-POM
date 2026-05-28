@@ -115,8 +115,6 @@ mvn -Dtest=LoginTest test
 
 ---
 
----
-
 # 📈 Test Reporting
 
 The framework supports:
@@ -178,8 +176,6 @@ Planned upgrades for the framework:
 # 👩‍💻 Author
 
 ## Dilushika Sewwandi
-
----
 
 ---
 
