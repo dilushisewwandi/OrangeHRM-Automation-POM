@@ -62,61 +62,6 @@ The project demonstrates practical industry-level QA automation concepts includi
 
 ---
 
-# 🏗️ Framework Architecture
-
-```bash
-OrangeHRM-Automation/
-│
-├── src/test/java
-│   ├── pages/
-│   │   ├── LoginPage.java
-│   │   ├── DashboardPage.java
-│   │   └── ForgotPasswordPage.java
-│   │
-│   ├── tests/
-│   │   ├── LoginTest.java
-│   │   ├── LogoutTest.java
-│   │   └── ForgotPasswordTest.java
-│   │
-│   └── utils/
-│       ├── BaseTest.java
-│       ├── DriverFactory.java
-│       └── TestData.java
-│
-├── pom.xml
-└── testng.xml
-```
-
----
-
-# 🖼️ Project Screenshots
-
-## 🔐 Login Automation
-
-![Login Automation](https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=1400&auto=format&fit=crop)
-
----
-
-## ✅ Test Execution
-
-![Test Execution](https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1400&auto=format&fit=crop)
-
----
-
-## 📊 Framework Structure
-
-![Framework](https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1400&auto=format&fit=crop)
-
----
-
-# 🎥 Demo Video
-
-> Replace this link with your actual YouTube, Loom, or LinkedIn demo video.
-
-[![Watch the Demo](https://img.shields.io/badge/Watch-Demo_Video-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/)
-
----
-
 # ⚙️ Setup Instructions
 
 ## 1️⃣ Clone Repository
@@ -169,19 +114,6 @@ mvn -Dtest=LoginTest test
 - Click **Run**
 
 ---
-
-# 📋 Sample Test Scenario
-
-```java
-@Test
-public void validLoginTest() {
-    loginPage.enterUsername("Admin");
-    loginPage.enterPassword("admin123");
-    loginPage.clickLogin();
-
-    Assert.assertTrue(dashboardPage.isDashboardDisplayed());
-}
-```
 
 ---
 
@@ -247,23 +179,7 @@ Planned upgrades for the framework:
 
 ## Dilushika Sewwandi
 
-Aspiring QA Engineer | Selenium Automation Tester | Software Engineering Undergraduate
-
-### Connect With Me
-
-- LinkedIn: https://linkedin.com/in/yourprofile
-- GitHub: https://github.com/yourusername
-- Portfolio: https://yourportfolio.com
-
 ---
-
-# ⭐ Support
-
-If you found this project useful:
-
-⭐ Star the repository  
-🍴 Fork the project  
-📢 Share with others  
 
 ---
 
